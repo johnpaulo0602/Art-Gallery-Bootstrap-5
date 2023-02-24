@@ -10,4 +10,6 @@ Para visualizar o projeto, basta clonar ou baixar este repositório e abrir o ar
 
 A seguir estão as capturas de tela do site em desktop e dispositivos móveis:
 
-![Captura de Tela Desktop](./img/desktop.jpg) | ![Captura de Tela Mobile](./img/mobile.jpg) |
+![Alt Text](img\Desktop.jpeg) | ![Alt Text](img\Mobile.jpeg)
+
+
